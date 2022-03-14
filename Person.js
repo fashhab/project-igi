@@ -1,7 +1,7 @@
 export default {
-    name: "Alex",
+    name: "faris",
     age: 23,
-    email: "alex@gmail.com",
+    email: "faris@gmail.com",
     designation: "CEO",
     gender: "Male"
 };
